@@ -12,7 +12,7 @@
 	<artifactId>security-login</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>security-login</name>
-	<description>Demo for JWT Authentication Roles and Profiles for Telefonica.</description>
+	<description>Demo for JWT Authentication Roles and Profiles for Telefonica</description>
 	<properties>
 		<java.version>11</java.version>
 		<cloud.version>2020.0.6</cloud.version>
